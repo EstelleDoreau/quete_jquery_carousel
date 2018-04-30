@@ -1,0 +1,20 @@
+{
+  "name": "carousel_jquery",
+  "version": "1.0.0",
+  "description": "quête jquery carousel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstelleDoreau/quete_jquery_carousel.git"
+  },
+  "author": "Estelle Doreau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EstelleDoreau/quete_jquery_carousel/issues"
+  },
+  "homepage": "https://github.com/EstelleDoreau/quete_jquery_carousel#readme",
+  "dependencies": {}
+}
